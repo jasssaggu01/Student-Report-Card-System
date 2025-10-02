@@ -14,8 +14,9 @@ def calculate_grade(percentage):
   else:
     return "F (fail)"
     def report_card():
-      print(Fore.CYAN + "="*45)
-      print(Fore.YELLOW + Style.Bright + "     )
-    
+    print(Fore.CYAN + "="*45)
+print(Fore.YELLOW + Style.BRIGHT + "     🎓 STUDENT REPORT CARD SYSTEM 🎓")
+print(Fore.CYAN + "="*45 + "\n")
+
     
     
