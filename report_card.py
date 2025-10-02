@@ -46,7 +46,7 @@ for i in range(num_subjects):
 
   # Report Card Display
   print("\n" + Fore.CYAN + "="*45)
-  print(Fore.YELLOW + Style.BRIGHT + "STUDENT REPORT CARD")
+  print(Fore.YELLOW + Style.BRIGHT + "🗒️STUDENT REPORT CARD🗒️")
   print(Fore.CYAN + "="*45)
   print(Fore.CYAN + f"Name   : {name}") 
   print(Fore.CYAN + f"RollNo   : {roll}")
@@ -65,7 +65,7 @@ for i in range(num_subjects):
     print(Fore.YELLOW + f"Total Marks : {total}")
     print(Fore.YELLOW + f"percentage : {percentage:.2f}%")
     print(Fore.YELLOW + f"Grade :       {grade}%")
-    print(Fore.GREEN + Style.BRIGHT + "      Best Wishes For Your Future ")
+    print(Fore.GREEN + Style.BRIGHT + "     🌟✨ Best Wishes For Your Future ✨🌟 ")
     print(Fore.CYAN + "="*45)
 
      # Run the program
